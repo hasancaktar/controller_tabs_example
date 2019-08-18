@@ -3,7 +3,6 @@ import 'package:tabs_example/getTab1.dart';
 import 'package:tabs_example/getTab2.dart';
 import 'package:tabs_example/getTab3.dart';
 import 'package:tabs_example/getTab4.dart';
-import 'package:tabs_example/ek.dart';
 
 void main() => runApp(MyApp());
 
